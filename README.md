@@ -6,7 +6,10 @@
 ## Overview
 This project implements a **three-way text classifier** using the **Naive Bayes algorithm**, a **probabilistic learning method** that predicts the most likely category for a given text based on learned word distributions.  
 
-The model supports both **English** and **Spanish**, with optional **stop word removal** to improve accuracy by focusing on meaningful terms rather than common filler words.
+The model includes two example classification domains: 
+- Food type classification in English (vegan, vegetarian, omnivorous)
+- Academic subject classification in Spanish (biología, economía, matemáticas).
+with optional stop-word removal to improve accuracy by focusing on informative tokens and filtering out low-information tokens (filler words). 
 
 The classifier learns from labeled training data (category text files) and applies **Bayes’ theorem** to calculate the probability of each category given the words in the input text. Despite assuming that words occur independently (“naive assumption”), this approach performs effectively in practice, as word frequency patterns provide enough information for the model to classify text effectively.
 
