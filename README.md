@@ -43,8 +43,9 @@ Once we have the probability of each word in each category (from the training da
 ---
 
 ## Testing and Observations
-I tested the classifier on two examples in both English and Spanish with `stop_words=True` and `stop_words=False`:
-- Excluding stop words significantly improved the algorithm's accuracy on unseen messages.
-- Including stop words sometimes caused the model to return neutral results instead of a clear category.
-- For both languages, excluding stop words allowed the classifier to categorize messages correctly with higher probability.
-**Conclusion:** Stop word removal improves text classification performance in this scenario.
+- Excluding stop words significantly improved the algorithm's accuracy on unseen messages.  
+- Including stop words occasionally caused the model to return neutral or less confident classifications.  
+- For both languages, excluding stop words enabled the classifier to assign categories with higher probability and consistency.  
+- When using more comprehensive and higher-quality dataset files, overall model accuracy improved further demonstrating the importance of dataset depth and quality in machine learning classification tasks.
+
+**Conclusion:** Stop-word removal and dataset quality both play key roles in enhancing model accuracy and generalization in Naive Bayes text classification.
