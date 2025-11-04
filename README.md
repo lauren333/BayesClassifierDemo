@@ -11,12 +11,6 @@ In this project, we implement a **three-way text classifier** with optional **st
 - **Dynamic test (`TestProgramDynamic.py`)** – Interactive simulation that removes stop words and classifies user-provided sentences in real time using larger datasets (≈40 lines each).
 ---
 
-## Classifier Features
-- **Stop Word Parameter:** A boolean `stop_word` parameter allows the algorithm to either include or exclude stop words in processing.
-- **Language Support:** A `language` parameter to specify text in either English or Spanish, allowing the classifier to load the corresponding stop words list. 
-
----
-
 ## How Words Are Processed
 ### 1. Tokenization
 Text is split into tokens (for ex. words).  
