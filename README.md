@@ -3,8 +3,6 @@
 ## Background Information
 **Text Classification** is a **machine learning** task where a model learns to assign predefined categories to text data based on patterns in the words. Categories can be anything: topics (sports, politics, science), product types, etc.
 
-**Sentiment Analysis** is a type of **text classification** that identifies the sentiment expressed in text, such as positive, negative, or neutral.
-
 In this project, we implement a **three-way text classifier** with optional **stop word removal** and support for **English and Spanish**. The classifier is a **machine learning model** because it **learns patterns from example text data** (the training files for each category) and then **predicts categories for new, unseen text**. It transforms text into numerical probabilities and applies the **Naive Bayes algorithm**, a probabilistic learning method, to assign the most likely category based on the words in the text.
 
 - **Static test (`TestProgram.py`)** – Runs batch classification on predefined datasets and compares model accuracy with and without stop-word removal using small category files (≈10 lines each) to demonstrate improved model performance when stop words are excluded.  
