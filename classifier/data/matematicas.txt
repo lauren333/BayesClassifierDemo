@@ -1,0 +1,10 @@
+El teorema de Pitágoras describe la relación entre los lados de un triángulo rectángulo.
+Las ecuaciones cuadráticas pueden resolverse usando la fórmula general.
+El cálculo diferencial estudia el cambio de funciones y sus derivadas.
+Los números primos son fundamentales en la criptografía moderna.
+La geometría euclidiana se basa en axiomas y postulados de Euclides.
+El álgebra lineal estudia matrices y espacios vectoriales.
+Las funciones trigonométricas son esenciales en la física y la ingeniería.
+El método de Newton-Raphson se usa para encontrar raíces de ecuaciones.
+Las probabilidades nos ayudan a entender la incertidumbre en eventos aleatorios.
+Los fractales son estructuras matemáticas con patrones que se repiten infinitamente.

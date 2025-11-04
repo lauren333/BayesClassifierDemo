@@ -1,0 +1,39 @@
+La suma y la resta son operaciones básicas
+El teorema de Pitágoras relaciona los lados de un triángulo rectángulo
+El área de un círculo se calcula con pi por radio al cuadrado
+Las fracciones representan partes de un todo
+El álgebra utiliza letras para representar números desconocidos
+Los números primos solo son divisibles por uno y por sí mismos
+El cálculo estudia las derivadas y las integrales
+La probabilidad mide la posibilidad de que ocurra un evento
+La media se obtiene sumando los valores y dividiendo entre su cantidad
+Un ángulo recto mide 90 grados
+La geometría analiza las formas y las figuras
+La multiplicación es una suma repetida
+La estadística organiza y analiza datos
+La división reparte una cantidad en partes iguales
+Un polígono tiene varios lados y vértices
+El radio es la distancia del centro al borde del círculo
+Una ecuación tiene una igualdad con incógnitas
+El eje X y el eje Y forman el plano cartesiano
+El porcentaje expresa una proporción sobre cien
+El logaritmo es el inverso de la potenciación
+Un vector tiene magnitud y dirección
+Las matrices organizan datos en filas y columnas
+El número pi es una constante irracional
+Una función relaciona dos conjuntos de valores
+La trigonometría estudia los ángulos y las razones entre los lados de un triángulo
+Una derivada mide la tasa de cambio instantáneo de una función
+Las integrales se usan para calcular áreas bajo una curva
+Las ecuaciones diferenciales describen fenómenos físicos y naturales
+El triángulo equilátero tiene tres lados iguales
+El sistema decimal usa diez dígitos
+El conjunto de los reales incluye números racionales e irracionales
+La pendiente indica la inclinación de una recta
+La raíz cuadrada deshace la potenciación al cuadrado
+El álgebra lineal estudia vectores, matrices y espacios vectoriales
+La geometría analítica combina el álgebra con la geometría
+La teoría de números analiza las propiedades de los enteros
+La estadística inferencial se usa para hacer predicciones
+Los límites son fundamentales en el cálculo diferencial
+He cursado asignaturas de trigonometría, álgebra lineal, cálculo y ecuaciones diferenciales
